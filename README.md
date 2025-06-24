@@ -1,6 +1,3 @@
-Here is your **cleanly formatted Markdown**, with absolutely **no changes to the text** — only fixed indentation, backticks, and block consistency to make it render properly:
-
-```markdown
 # Real-Time Posture Classification Using MediaPipe and Random Forest
 
 This project classifies human posture in **real-time** using a webcam. It uses **MediaPipe Pose** to extract body landmarks and a **Random Forest** model to classify the posture as either **Correct** or **Incorrect**.
