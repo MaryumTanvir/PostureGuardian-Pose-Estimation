@@ -1,0 +1,11 @@
+# Ignore folders
+dataset/
+Blurred/
+split_dataset/
+
+# Optional common ignores
+__pycache__/
+*.py[cod]
+venv/
+.env
+.DS_Store
